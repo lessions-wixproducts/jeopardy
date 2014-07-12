@@ -1,1 +1,0 @@
-{ "indexes" : [ { "v" : 1, "key" : { "_id" : 1 }, "ns" : "jeopardy.jeopardy_qa", "name" : "_id_" } ] }
