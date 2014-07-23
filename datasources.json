@@ -1,0 +1,33 @@
+{
+    "db": {
+        "defaultForType": "db",
+        "connector": "memory"
+    },
+    "push": {
+        "defaultForType": "push",
+        "connector": "loopback-push-notification",
+        "installation": "installation",
+        "notification": "notification",
+        "application": "application"
+    },
+    "mail": {
+        "defaultForType": "mail",
+        "connector": "mail"
+    },
+    "jeopardyDb": {
+        "connector": "mysql",
+        "host": "dev-pta.epsvenue.com",
+        "port": 3306,
+        "database": "jeopardy",
+        "username": "root",
+        "password": "epsvenue01"
+    },
+    "webdev": {
+        "connector": "mysql",
+        "host": "localhost",
+        "port": 13306,
+        "database": "webdev-server-week05",
+        "username": "vagrant",
+        "password": "vagrant"
+    }
+}

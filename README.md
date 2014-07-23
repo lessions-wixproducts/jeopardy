@@ -3,10 +3,10 @@ Quiz app with jeopardy questions.
 
 Create a Node application with MongoDB as database that has the same functionality as the MySQL database. 
 
+- Retrieve all unique _categories_
 - Retrieve _n_ questions random from the collection
-- REST for all collections
 - Add a collection for answers. Motivate your considerations for nested document, sub documents or new collection.
-
+- Create a REST interface for all collections
 
 Your assignment:
 
@@ -22,7 +22,4 @@ Fix the TODO's
 
 **MySQL**
 
-
-```cd ~/workspaces/jeopardy/data/mysql```
-
-```mysql -u USERNAME -p'PASSWORD' < jeopardy.sql```
+```mysql -u USERNAME -p'PASSWORD' < ~/workspaces/jeopardy/data/mysql/jeopardy.sql```
