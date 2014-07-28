@@ -16,18 +16,10 @@
     },
     "jeopardyDb": {
         "connector": "mysql",
-        "host": "dev-pta.epsvenue.com",
+        "host": "server3.tezzt.nl",
         "port": 3306,
         "database": "jeopardy",
-        "username": "root",
-        "password": "epsvenue01"
-    },
-    "webdev": {
-        "connector": "mysql",
-        "host": "localhost",
-        "port": 13306,
-        "database": "webdev-server-week05",
-        "username": "vagrant",
-        "password": "vagrant"
+        "username": "jeopardy",
+        "password": "webdev"
     }
 }
