@@ -164,30 +164,5 @@
         "public": true,
         "dataSource": "jeopardyDb",
         "plural": "categories"
-    },
-    "products": {
-        "properties": {
-            "productId": {
-                "type": "number"
-            },
-            "name": {
-                "type": "string"
-            },
-            "size": {
-                "type": "number"
-            },
-            "color": {
-                "type": "string"
-            },
-            "unitPrice": {
-                "type": "number"
-            },
-            "notes": {
-                "type": "string"
-            }
-        },
-        "public": true,
-        "dataSource": "webdev",
-        "plural": "products"
     }
 }
