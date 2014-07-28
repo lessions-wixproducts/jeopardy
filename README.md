@@ -1,7 +1,7 @@
 #Description
 Quiz app with jeopardy questions.
 
-Create a Node application with MongoDB as database that has the same functionality as the MySQL database. See description below.
+Create a Node application with MongoDB as database that has the same functionality as the MySQL database. See description of the sample application below.
 
 - Retrieve all unique _categories_
 - Retrieve _n_ questions random from the collection
